@@ -1,3 +1,4 @@
+<!--
 intro: "You can list your publications in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
@@ -13,3 +14,4 @@ publications:
     title: A syntax directed compiler for Algol 60
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
+-->
