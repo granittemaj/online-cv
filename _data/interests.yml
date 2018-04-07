@@ -1,9 +1,12 @@
 - interest:
+  item: Hiking
+  link:
+- interest:
   item: Climbing
   link:
 - interest:
-  item: Snowboarding
+  item: Travelling
   link:
 - interest:
-  item: Cooking
+  item: Sports
   link:
