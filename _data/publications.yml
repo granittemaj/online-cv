@@ -3,7 +3,7 @@ intro: "You can list your publications in this section. Lorem ipsum dolor
 publications:
   - paper:
     title: Robert BOSCH GMBH WBT Certificate 
-    authors: - IT IPV6 Internet Protocol Version 6 (IPv6) at Bosch-B<br>ISP DATA-STORE Data Storage on Servers-B
+    authors: IT IPV6 Internet Protocol Version 6 (IPv6) at Bosch-B<br>ISP DATA-STORE Data Storage on Servers-B
     conference: "2016"
   - paper:
     title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
