@@ -2,9 +2,9 @@ intro: "You can list your publications in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: Robert BOSCH GMBH WBT - Certificate 
+    authors:- [IT-IPV6] Internet Protocol Version 6 (IPv6) at Bosch-B <br>- [ISP-DATA-STORE] Data Storage on Servers-B
+    conference:2016
   - paper:
     title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
