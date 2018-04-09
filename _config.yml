@@ -1,7 +1,7 @@
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+url: 'http://granittemaj.com'
+baseurl: 'granittemaj.github.io/online-cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
@@ -17,10 +17,9 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Granit Temaj
 tagline: 
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'A Telecommunication Engineering student, with a passion for technology, traveling and hiking. Experienced in three very large companies with a demonstrated history of working in areas like hybrid cars software development, Visual Basic Programming, CAN bus testing, Database, Web development, Bank Electronic Services and 3G/4G Network Engineering.<br>
+Working efficiently under pressure, responsive to learn fast and working great in a group are my strong skill sets.
+You can <a href="#" target="_blank">download my Resume here</a>.'
 
 #sidebar links
 email: granit.temaj@gmail.com
