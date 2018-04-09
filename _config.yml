@@ -19,7 +19,7 @@ tagline:
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'A Telecommunication Engineering student, with a passion for technology, traveling and hiking. Experienced in three very large companies with a demonstrated history of working in areas like hybrid cars software development, Visual Basic Programming, CAN bus testing, Database, Web development, Bank Electronic Services and 3G/4G Network Engineering.<br>
 Working efficiently under pressure, responsive to learn fast and working great in a group are my strong skill sets.
-You can <a href="#" target="_blank">download my Resume here</a>.'
+You can <a href="online-cv/assets/GranitTemajResume.pdf" target="_blank">download my Resume here</a>.'
 
 #sidebar links
 email: granit.temaj@gmail.com
