@@ -4,7 +4,7 @@ publications:
   - paper:
     title: Robert BOSCH GMBH WBT Certificate 
     authors: Internet Protocol Version 6 (IPv6) at Bosch-B <br>Data Storage on Servers-B
-    conference:2016
+    conference: 2016
   - paper:
     title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
