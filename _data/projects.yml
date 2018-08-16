@@ -11,11 +11,11 @@ projects:
     tagline: "A responsive WordPress website for a company in Switzerland."
   - project:
     title: Vjaske
-    link: "vjaske.com"
+    link: "https://vjaske.com/"
     tagline: "A responsive WordPress website for a startup company in Kosovo."
   - project:
     title: Change University
-    link: "changeuniversity.org/"
+    link: "https://changeuniversity.org/"
     tagline: "A responsive WordPress website for a university in California, United States"
   - project:
     title: Delta
