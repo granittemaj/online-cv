@@ -2,21 +2,21 @@ intro: "You can list your side projects or open source libraries in this section
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Alpventurer
+    link: "alpventurer.com"
+    tagline: "A responsive WordPress website to share my passion with you."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: V-Production
+    link: "v-production.ch/"
+    tagline: "A responsive WordPress website for a company in Switzerland."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: Vjaske
+    link: "vjaske.com"
+    tagline: "A responsive WordPress website for a startup company in Kosovo."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: Change University
+    link: "changeuniversity.org/"
+    tagline: "A responsive WordPress website for a university in California, United States"
   - project:
     title: Delta
     link: "#"
