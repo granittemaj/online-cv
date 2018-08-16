@@ -3,20 +3,20 @@ intro: "You can list your side projects or open source libraries in this section
 projects:
   - project:
     title: Alpventurer
-    link: "https://alpventurer.com"
+    link: "alpventurer.com"
     tagline: "A responsive WordPress website to share my passion with you."
   - project:
     title: V-Production
-    link: "https://v-production.ch/"
+    link: "v-production.ch/"
     tagline: "A responsive WordPress website for a company in Switzerland."
   - project:
     title: Vjaske
-    link: "http://vjaske.com"
+    link: "vjaske.com"
     tagline: "A responsive WordPress website for a startup company in Kosovo."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: Change University
+    link: "changeuniversity.org/"
+    tagline: "A responsive WordPress website for a university in California, United States"
   - project:
     title: Delta
     link: "#"
