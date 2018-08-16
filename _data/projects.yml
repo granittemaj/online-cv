@@ -3,8 +3,8 @@ intro: "You can list your side projects or open source libraries in this section
 projects:
   - project:
     title: Alpventurer
-    link: "alpventurer.com"
-    tagline: "A responsive WordPress website to share my passion with you."
+    link: "https://alpventurer.com"
+    tagline: "A responsive WordPress website to share my passion."
   - project:
     title: V-Production
     link: "v-production.ch/"
