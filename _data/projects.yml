@@ -12,12 +12,12 @@ projects:
   - project:
     title: Vjaske
     link: "https://vjaske.com/"
-    tagline: "A responsive WordPress website for a startup company in Kosovo."
+    tagline: "A responsive WordPress WooCommerce website for a startup company in Kosovo (in progress)"
   - project:
     title: Change University
     link: "https://changeuniversity.org/"
-    tagline: "A responsive WordPress website for a university in California, United States"
+    tagline: "A responsive WordPress website for a university in California, United States (in progress)"
   - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: XK Outdoor
+    link: "http://xkoutdoor.org/"
+    tagline: "A responsive Bootstrap website. The aim of this website is engaging the community and all hiking enthusiast to contribute to one single platform where you can have access to tourism guides, maps, and more information for the tourist and the local people that visit Kosovo."
