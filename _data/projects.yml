@@ -4,11 +4,11 @@ projects:
   - project:
     title: Alpventurer
     link: "https://alpventurer.com"
-    tagline: "A responsive WordPress website to share my passion."
+    tagline: "A responsive WordPress website to share my passion"
   - project:
     title: V-Production
     link: "https://v-production.ch/"
-    tagline: "A responsive WordPress website for a company in Switzerland."
+    tagline: "A responsive WordPress website for a company in Switzerland"
   - project:
     title: Vjaske
     link: "https://vjaske.com/"
@@ -20,4 +20,4 @@ projects:
   - project:
     title: XK Outdoor
     link: "http://xkoutdoor.org/"
-    tagline: "A responsive Bootstrap website. The aim of this website is engaging the community and all hiking enthusiast to contribute to one single platform where you can have access to tourism guides, maps, and more information for the tourist and the local people that visit Kosovo."
+    tagline: "A responsive Bootstrap website. The aim of this website is engaging the community and all hiking enthusiast to contribute to one single platform where you can have access to tourism guides, maps, and more information for the tourist and the local people that visit Kosovo"
