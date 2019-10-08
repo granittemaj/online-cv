@@ -17,7 +17,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Granit Temaj
 tagline: 
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: ' '
+summary: 'An IT engineer, hiking guide, runner, and blogger, with a passion for technology, traveling, running, and outdoors. I’m well-versed in web development, planning, project coordinating, operations, working under pressure and problem - solving skills. '
 
 #sidebar links
 email: granit.temaj@gmail.com
@@ -25,7 +25,7 @@ phone: +386 49 665 104
 website: alpventurer.com #do not add http://
 linkedin: granittemaj
 github: granittemaj
-twitter: '@granit_t'
+twitter: '@alpventurer'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
