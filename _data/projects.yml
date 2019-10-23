@@ -1,6 +1,10 @@
 intro: "A list of Projects I contributed:"
 projects:
   - project:
+    title: Emma GB
+    link: "https://emmagb.co.uk"
+    tagline: "A responsive WordPress blog for a food blogger"
+  - project:
     title: Alpventurer
     link: "https://alpventurer.com"
     tagline: "A responsive WordPress website for a outdoor travel company"
