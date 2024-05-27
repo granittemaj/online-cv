@@ -184,13 +184,11 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here is a list of Projects I've worked on:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: KOSCS
+        link: "koscs.org"
+        tagline: "A responsive WordPress website for an NGO"
 
       - title: DevStudio
         link: "#"
