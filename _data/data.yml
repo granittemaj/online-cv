@@ -206,9 +206,17 @@ projects:
         link: "https://autoeni.com/"
         tagline: "A responsive WordPress website for a company in Kosovo"
         
-      - title: Auto ENI
-        link: "https://autoeni.com/"
-        tagline: "A responsive WordPress website for a company in Kosovo"
+      - title: White Seal Strategies
+        link: "https://whitesealstrategies.com/"
+        tagline: "A responsive WordPress website for a company in the United States"
+        
+      - title: Prishtina Trails
+        link: "https://prishtinatrails.com/"
+        tagline: "A responsive WordPress website for a running event in Kosovo"
+        
+      - title: Kosova Journal of Surgery
+        link: "https://kosovajournalofsurgery.net/"
+        tagline: "A responsive WordPress website for a journal in Kosovo"
 oss:
     title: OSS Contributions
     intro: >
