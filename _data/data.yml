@@ -124,6 +124,30 @@ experiences:
           Responsible for developing and planning new features, working with relevant teams to ensure a clear
           understanding of specifications, prioritizing work to align with product strategy, and serving as a
           product ambassador to share knowledge and answer questions.
+      - role: Technical Product Manager
+        time: 2021 - 2021
+        company: Raiffeisen Bank J.S.C.
+        details: |
+          Drive and develop the SME Advisory product stream, its vision, backlog definition, and prioritization,
+          ensuring fulfillment of agreed business goals and KPIs.
+      - role: Product Operations Consultant
+        time: 2017 - 2021
+        company: AT&T
+        details: |
+          Creation of the operational solution across products and consolidation of multiple custom requirements
+          into one cohesive operational solution by working with stakeholder business partners.
+      - role: Web Developer
+        time: 2017 - 2018
+        company: Alma Mater Europea
+        details: |
+          Primary contact for all aspects of the websites, handling a range of responsibilities
+          such as web design, development, and routine site and content maintenance to ensure
+          sites align with the goals and objectives of the company.
+      - role: Web Developer Intern
+        time: 2016 - 2016
+        company: Bosch
+        details: |
+          Visual Basic Programming and Software development of Electrical drives.
 
 certifications:
       title: Certifications
