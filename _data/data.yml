@@ -92,30 +92,22 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technical Product Owner
+        time: 2023 - Present
+        company: ZEISS Digital Partners
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Responsible for the development of a web-based customer portal solution for ZEISS customers,
+          coordinating implementation with an interdisciplinary team, facilitating stakeholder communication,
+          overseeing the development, applying agile best practices, working with internal and external stakeholders,
+          and organizing customer research.
+      - role: Web Developer & Tech Consultant
+        time: 2020 - Present
+        company: Just Business
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Just Business invests in and builds lasting companies that give more to society than they take.
+          With investments that mutually strengthen each other across various influential industries,
+          including consumer products, environmental sustainability, engineering, transportation, and green energy.
+          Just Business is at the intersection of profit and purpose, bringing dignity to people and our planet.
             - Bullet point
             - Bullet point
       - role: UI Developer
