@@ -217,6 +217,22 @@ projects:
       - title: Kosova Journal of Surgery
         link: "https://kosovajournalofsurgery.net/"
         tagline: "A responsive WordPress website for a journal in Kosovo"
+
+      - title: Metals Security
+        link: "https://www.metalssecurity.org/"
+        tagline: "A responsive SquareSpace website for a company in the United States"
+
+      - title: Recharge Global
+        link: "https://www.rechargeglobal.com/"
+        tagline: "A responsive SquareSpace website for a company in the United States"
+
+      - title: Just Business
+        link: "https://www.justbusiness.is/"
+        tagline: "A responsive SquareSpace website for a company in the United States"
+
+      - title: Regenerate Technology
+        link: "https://www.regeneratetechnology.com/"
+        tagline: "A responsive SquareSpace website for a company in the United States"
 oss:
     title: OSS Contributions
     intro: >
