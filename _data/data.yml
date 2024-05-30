@@ -186,6 +186,9 @@ projects:
     intro: >
       Here is a list of Projects I've worked on:
     assignments:
+      - title: Alpventurer
+        link: "https://alpventurer.com"
+        tagline: "A responsive WordPress website for my Blog"
       - title: KOSCS
         link: "https://koscs.org"
         tagline: "A responsive WordPress website for an NGO"
