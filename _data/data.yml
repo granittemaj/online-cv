@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Granit Temaj
-    tagline: Web Developer & Technical Product Manager
+    tagline: Product Owner & Web Developer
     avatar: profile_gt.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -92,8 +92,8 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Technical Product Owner
-        time: 2023 - Present
+      - role: Product Owner
+        time: Jul 2023 - Present
         company: ZEISS Digital Partners
         details: |
           Responsible for the development of a web-based customer portal solution for ZEISS customers,
@@ -101,41 +101,41 @@ experiences:
           overseeing the development, applying agile best practices, working with internal and external stakeholders,
           and organizing customer research.
       - role: Web Developer & Tech Consultant
-        time: 2020 - Present
+        time: Feb 2020 - Present
         company: Just Business
         details: |
           Just Business invests in and builds lasting companies that give more to society than they take.
           With investments that mutually strengthen each other across various influential industries,
           including consumer products, environmental sustainability, engineering, transportation, and green energy.
           Just Business is at the intersection of profit and purpose, bringing dignity to people and our planet.
-      - role: Technical Product Owner
-        time: 2021 - 2023
+      - role: Product Owner
+        time: Nov 2021 - Jul 2023
         company: Radix Software INC
         details: |
           Responsible for developing and planning new features, working with relevant teams to ensure a clear
           understanding of specifications, prioritizing work to align with product strategy, and serving as a
           product ambassador to share knowledge and answer questions.
       - role: Technical Product Manager
-        time: 2021 - 2021
+        time: Jun 2021 - Oct 2021
         company: Raiffeisen Bank J.S.C.
         details: |
           Drive and develop the SME Advisory product stream, its vision, backlog definition, and prioritization,
           ensuring fulfillment of agreed business goals and KPIs.
       - role: Product Operations Consultant
-        time: 2017 - 2021
+        time: Nov 2017 - May 2021
         company: AT&T
         details: |
           Creation of the operational solution across products and consolidation of multiple custom requirements
           into one cohesive operational solution by working with stakeholder business partners.
       - role: Web Developer
-        time: 2017 - 2018
+        time: Jan 2017 - Jan 2018
         company: Alma Mater Europea
         details: |
           Primary contact for all aspects of the websites, handling a range of responsibilities
           such as web design, development, and routine site and content maintenance to ensure
           sites align with the goals and objectives of the company.
       - role: Web Developer Intern
-        time: 2016 - 2016
+        time: Jan 2016 - Jun 2016
         company: Bosch
         details: |
           Visual Basic Programming and Software development of Electrical drives.
